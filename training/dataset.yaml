@@ -1,0 +1,8 @@
+path: C:/Users/iremd/cv-advanced-assessment/dataset
+train: images/train
+val: images/val
+
+names:
+  0: person
+  1: car
+  2: truck
